@@ -1790,8 +1790,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   noiseDomainX: {fileID: 11400000, guid: 0cb0a94a1fe4d3f48b5f75bc8de7ce0c, type: 2}
   noiseDomainY: {fileID: 11400000, guid: 30aca15e2a5a30840a631737b090b559, type: 2}
-  amplitudeX: 130
-  amplitudeY: 90
+  amplitudeX: 50
+  amplitudeY: 30
 --- !u!1 &2110398217
 GameObject:
   m_ObjectHideFlags: 0
