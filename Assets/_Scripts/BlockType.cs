@@ -4,7 +4,6 @@ using UnityEngine;
 
 public enum BlockType
 {
-    //voxel types
     Nothing,
     Air,
     Grass_Dirt,
@@ -12,8 +11,8 @@ public enum BlockType
     Grass_Stone,
     Stone,
     TreeTrunk,
-    TreeLeavesTransparent,
-    TreeLeavesSolid,
+    TreeLeafesTransparent,
+    TreeLeafsSolid,
     Water,
     Sand
 }
