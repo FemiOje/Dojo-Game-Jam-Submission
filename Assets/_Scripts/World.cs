@@ -42,6 +42,11 @@ public class World : MonoBehaviour
         };
     }
 
+    private void Start()
+    {
+        GenerateWorld();
+    }
+
     public async void GenerateWorld()
     {
         await GenerateWorld(Vector3Int.zero);
